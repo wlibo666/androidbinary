@@ -1,4 +1,4 @@
-package com.shogo82148.androidbinary.myapplication
+package com.wlibo666.androidbinary.myapplication
 
 import org.junit.Test
 

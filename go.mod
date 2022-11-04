@@ -1,4 +1,4 @@
-module github.com/shogo82148/androidbinary
+module github.com/wlibo666/androidbinary
 
 go 1.17
 
